@@ -1,0 +1,61 @@
+{
+    "name": "Resfly",
+    "description": "Create and post jobs to your career portal and multiple job boards, build custom questionnaires for applicants, and track the effectiveness of your hiring.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1272-resfly.jpg",
+    "tags": [
+        "have api",
+        "job search",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/resfly\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Resfly",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1272-resfly.jpg",
+            "humanURL": "http:\/\/www.resfly.com\/docs-api-introduction\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/resfly-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/resfly-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.resfly.com\/docs-api-introduction\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.resfly.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.resfly.com\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/resfly"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/resfly"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/resfly"
+        }
+    ]
+}
